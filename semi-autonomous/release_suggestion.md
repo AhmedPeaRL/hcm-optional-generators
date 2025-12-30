@@ -5,4 +5,5 @@ This tool may suggest:
 
 It never decides.
 It never executes.
+
 Its output may be ignored indefinitely.
