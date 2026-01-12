@@ -1,0 +1,9 @@
+{
+  "type": "translation_only",
+  "can_generate": false,
+  "can_select": false,
+  "can_trigger": false,
+  "function": "expose_readability_if_requested",
+  "state": "dormant",
+  "note": "This generator does not create. It only translates silence into readable form when externally requested."
+}
